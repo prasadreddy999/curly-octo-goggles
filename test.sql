@@ -14,5 +14,6 @@ use tmobile;
 #update wipro set designation = "devops_engineer" where id = 1;
 
 delete from wipro where first_name = "venkat";
+delete from wipro where first_name = "anupam";
 
 
